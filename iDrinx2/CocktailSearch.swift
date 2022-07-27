@@ -19,8 +19,8 @@ struct CocktailSearch: View {
                     }
                 }
             }
+            .navigationTitle("Cocktail Search")
             .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always)) {
-                
             }
         }
     }
