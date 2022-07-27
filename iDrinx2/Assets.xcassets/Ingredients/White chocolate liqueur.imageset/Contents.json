@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "White chocolate liqueur.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

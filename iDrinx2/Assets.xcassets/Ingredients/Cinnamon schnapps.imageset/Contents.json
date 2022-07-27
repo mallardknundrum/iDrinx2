@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Cinnamon schnapps.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

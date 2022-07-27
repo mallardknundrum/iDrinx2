@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Peach Vodka.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

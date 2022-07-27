@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sirup of roses.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

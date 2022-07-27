@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Sour Apple Pucker.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Soy milk.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

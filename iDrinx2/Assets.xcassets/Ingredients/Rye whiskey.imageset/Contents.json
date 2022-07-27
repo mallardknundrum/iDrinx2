@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Rye whiskey.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

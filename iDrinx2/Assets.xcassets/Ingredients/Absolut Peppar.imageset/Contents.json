@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Absolut Peppar.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

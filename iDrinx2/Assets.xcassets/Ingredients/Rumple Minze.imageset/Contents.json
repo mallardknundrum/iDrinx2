@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Rumple Minze.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
