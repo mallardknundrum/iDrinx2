@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Johnnie Walker.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

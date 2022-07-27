@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "St. Germain.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

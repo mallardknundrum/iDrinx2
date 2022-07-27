@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Blackberry brandy.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Grain alcohol.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

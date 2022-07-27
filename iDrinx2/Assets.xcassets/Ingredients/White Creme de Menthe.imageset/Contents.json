@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "White Creme de Menthe.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

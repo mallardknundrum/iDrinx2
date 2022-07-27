@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cherry grenadine.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

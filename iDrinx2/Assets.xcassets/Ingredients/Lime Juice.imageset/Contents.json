@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Lime juice.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

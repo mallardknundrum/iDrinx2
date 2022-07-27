@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Kummel.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

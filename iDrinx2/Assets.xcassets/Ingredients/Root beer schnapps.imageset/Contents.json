@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Root beer schnapps.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
