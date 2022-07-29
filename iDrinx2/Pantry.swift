@@ -26,7 +26,7 @@ struct Pantry: View {
             ScrollView {
                 LazyVGrid(columns: columns) {
                     
-                    ForEach(pantryController.myIngredients, id: \.self) { name in
+                    ForEach(pantryController.myIngredients.map { $0.name }, id: \.self) { name in
                         PantryIngredientView(ingredientString: name)
                     }
                 }

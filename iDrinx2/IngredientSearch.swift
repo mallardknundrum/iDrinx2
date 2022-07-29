@@ -34,9 +34,12 @@ struct IngredientSearch: View {
     
     var searchResults: [String] {
         if searchText.isEmpty {
-            return pantryController.allIngredients
+            return pantryController.allIngredients.map { $0.name }
         } else {
-            return pantryController.allIngredients.filter { $0.lowercased().contains(searchText.lowercased())
+            return pantryController
+                .allIngredients
+                .map { $0.name }
+                .filter { $0.lowercased().contains(searchText.lowercased())
             }
         }
     }

@@ -66,12 +66,12 @@ struct DetailView_Previews: PreviewProvider {
                                       dateModified: "2016-04-29 09:43:00",
                                       thumbnail: "http://www.thecocktaildb.com/images/media/drink/vyrvxt1461919380.jpg",
                                       ingredients: [
-                                        Ingredient(name: "Light rum", amount: "1 oz"),
-                                        Ingredient(name: "Añejo rum", amount: "1 oz"),
-                                        Ingredient(name: "Orange juice", amount: "1 oz"),
-                                        Ingredient(name: "Lemon juice", amount: "1/2 oz"),
-                                        Ingredient(name: "Ginger ale", amount: "3 oz"),
-                                        Ingredient(name: "Lemon peel", amount: "1 twist of"),
+                                        Cocktail_Ingredient(name: "Light rum", amount: "1 oz"),
+                                        Cocktail_Ingredient(name: "Añejo rum", amount: "1 oz"),
+                                        Cocktail_Ingredient(name: "Orange juice", amount: "1 oz"),
+                                        Cocktail_Ingredient(name: "Lemon juice", amount: "1/2 oz"),
+                                        Cocktail_Ingredient(name: "Ginger ale", amount: "3 oz"),
+                                        Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                       ],
                                       description: "",
                                       reviewsAndRatings: []))

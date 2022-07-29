@@ -2,18 +2,13 @@
 //  Ingredient.swift
 //  iDrinx2
 //
-//  Created by Jeremiah Hawks on 7/15/22.
+//  Created by Jeremiah Hawks on 7/29/22.
 //
 
 import Foundation
-import UIKit
 
 struct Ingredient: Codable, Hashable {
     let name: String
-    let amount: String
-    //let image: String
-    
-//    init(from decoder: Decoder) throws {
-//        <#code#>
-//    }
+    let id: String
+    let category: String
 }

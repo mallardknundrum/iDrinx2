@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Light rum",
+    "category": "cocktail",
+    "id": "7ae285d0-b1b6-4604-bd6c-8a8a7fae1ef5"
+  },
+  {
+    "name": "Applejack",
+    "category": "cocktail",
+    "id": "e3001702-13aa-4275-b1ee-a2330ec42300"
+  },
+  {
+    "name": "Gin",
+    "category": "cocktail",
+    "id": "ddf71205-3d09-4460-8f71-0c52c6c63dfe"
+  },
+  {
+    "name": "Dark rum",
+    "category": "cocktail",
+    "id": "992471c1-ec50-482a-b3c0-4536e5f5f371"
+  },
+  {
+    "name": "Sweet Vermouth",
+    "category": "cocktail",
+    "id": "fb92ad1f-22ff-43ac-8ce5-518e7c593e78"
+  },
+  {
+    "name": "Strawberry schnapps",
+    "category": "cocktail",
+    "id": "b579ba82-c872-4786-bafd-0a7d5d13dca8"
+  },
+  {
+    "name": "Scotch",
+    "category": "cocktail",
+    "id": "e330f1ad-c09f-4555-9da1-393985ba1ef6"
+  },
+  {
+    "name": "Apricot brandy",
+    "category": "cocktail",
+    "id": "53ffccfd-799c-4168-b88d-5f325e4de8a3"
+  },
+  {
+    "name": "Triple sec",
+    "category": "cocktail",
+    "id": "a7048320-a82b-4324-8379-a0d9f484dcc0"
+  },
+  {
+    "name": "Southern Comfort",
+    "category": "cocktail",
+    "id": "e3353b7b-a98b-44fc-8e13-02cb04ee53c6"
+  },
+  {
+    "name": "Orange bitters",
+    "category": "cocktail",
+    "id": "393fbe15-355c-4da3-8218-5a4d91c11960"
+  },
+  {
+    "name": "Brandy",
+    "category": "cocktail",
+    "id": "b61646c7-9e54-4763-b570-c76d8e6445ef"
+  },
+  {
+    "name": "Lemon vodka",
+    "category": "cocktail",
+    "id": "3624b6bf-5274-439f-9bcb-c27cc3632a05"
+  },
+  {
+    "name": "Blended whiskey",
+    "category": "cocktail",
+    "id": "a6bdbeef-45dc-4f62-8d95-eff8bc0e001f"
+  },
+  {
+    "name": "Dry Vermouth",
+    "category": "cocktail",
+    "id": "f8140b1a-ac25-4925-ba64-e69885bdd64b"
+  },
+  {
+    "name": "Amaretto",
+    "category": "cocktail",
+    "id": "055f573d-8b66-4d08-a202-c2fbda625468"
+  },
+  {
+    "name": "Tea",
+    "category": "general",
+    "id": "26c66fe1-5175-4abf-860a-2b449f2d1a81"
+  },
+  {
+    "name": "Creme de Cacao",
+    "category": "cocktail",
+    "id": "f420c119-0d93-48ef-ba82-86fa45a3464e"
+  },
+  {
+    "name": "Apple brandy",
+    "category": "cocktail",
+    "id": "162633b7-5913-4fd6-b0a5-789706e5f083"
+  },
+  {
+    "name": "Dubonnet Blanc",
+    "category": "cocktail",
+    "id": "92ac53bc-7d9a-40cb-a485-54eea9ba2ffe"
+  },
+  {
+    "name": "Apple schnapps",
+    "category": "cocktail",
+    "id": "d0bd2e54-4f6e-49ee-9840-969381ab9dca"
+  },
+  {
+    "name": "Añejo rum",
+    "category": "cocktail",
+    "id": "b013ba2e-8712-4a8e-b02d-15e9d5371cbc"
+  },
+  {
+    "name": "Champagne",
+    "category": "cocktail",
+    "id": "85f34285-c11d-4da2-b117-d515d34ddebc"
+  },
+  {
+    "name": "Coffee liqueur",
+    "category": "cocktail",
+    "id": "055a3fa8-c650-4c05-a014-19ac1447fbd3"
+  },
+  {
+    "name": "Rum",
+    "category": "cocktail",
+    "id": "d3233101-bfa9-4511-8b90-6778431f02b6"
+  },
+  {
+    "name": "Cachaca",
+    "category": "cocktail",
+    "id": "ddcb64b2-77d5-444a-b845-ae962a2e86e5"
+  },
+  {
+    "name": "Sugar",
+    "category": "general",
+    "id": "b201bbdf-b1f8-47f7-b11a-75df0a1bf871"
+  },
+  {
+    "name": "Blackberry brandy",
+    "category": "cocktail",
+    "id": "166516bb-301b-4bb0-9756-be10f96ccd64"
+  },
+  {
+    "name": "Calvados",
+    "category": "cocktail",
+    "id": "1a4416e6-ca2a-466d-ab99-c73ba63d1fe6"
+  },
+  {
+    "name": "Ice",
+    "category": "general",
+    "id": "971d963b-4988-4afc-afcd-2a485bd3726c"
+  },
+  {
+    "name": "Lemon",
+    "category": "general",
+    "id": "44468b28-bb01-4b09-8990-978286117369"
+  },
+  {
+    "name": "Coffee brandy",
+    "category": "cocktail",
+    "id": "1a371257-7274-44e2-a139-7dec47a2bcd4"
+  },
+  {
+    "name": "Bourbon",
+    "category": "cocktail",
+    "id": "7ca6b455-8bdd-4abd-ac07-b62e180e5fd0"
+  },
+  {
+    "name": "Irish whiskey",
+    "category": "cocktail",
+    "id": "8e177258-00ac-499c-aba3-86f5224771ee"
+  },
+  {
+    "name": "Vodka",
+    "category": "cocktail",
+    "id": "dec60af3-8f80-4e37-bb41-c33078f23453"
+  },
+  {
+    "name": "Tequila",
+    "category": "cocktail",
+    "id": "7134deda-0ae8-4f01-9687-268c7aaa2cc4"
+  },
+  {
+    "name": "Bitters",
+    "category": "cocktail",
+    "id": "2fc218b5-839a-4df7-a6d9-da65e4943224"
+  },
+  {
+    "name": "Lime juice",
+    "category": "general",
+    "id": "4b994bd3-5de6-4659-9366-1e85cfb2eb77"
+  },
+  {
+    "name": "Egg",
+    "category": "general",
+    "id": "d7731778-c98a-4522-b049-de922129b790"
+  },
+  {
+    "name": "Mint",
+    "category": "general",
+    "id": "782dc8d2-ed6c-4838-8d40-d47232dac681"
+  },
+  {
+    "name": "Sherry",
+    "category": "cocktail",
+    "id": "a8b849b6-2c57-497f-97fa-1f4df951dd99"
+  },
+  {
+    "name": "Cherry brandy",
+    "category": "cocktail",
+    "id": "87593506-7a01-4ee0-971b-931ed83fa5f2"
+  },
+  {
+    "name": "Canadian whisky",
+    "category": "cocktail",
+    "id": "38b32a8e-6775-496c-9e55-24f893c503ed"
+  },
+  {
+    "name": "Kahlua",
+    "category": "cocktail",
+    "id": "4df465eb-4930-4010-8a1c-668a2aca052e"
+  },
+  {
+    "name": "Yellow Chartreuse",
+    "category": "cocktail",
+    "id": "57dcba28-b4f8-46d0-88a2-9e726d815d74"
+  },
+  {
+    "name": "Cognac",
+    "category": "cocktail",
+    "id": "6002e475-02dc-4e59-8a1c-07c69022f7ac"
+  },
+  {
+    "name": "demerara Sugar",
+    "category": "general",
+    "id": "cff152e2-197f-48a7-b8f9-d017400c5c22"
+  },
+  {
+    "name": "Sake",
+    "category": "cocktail",
+    "id": "82872b6a-2a6e-4803-9776-c92fb6962b4e"
+  },
+  {
+    "name": "Dubonnet Rouge",
+    "category": "cocktail",
+    "id": "04e0dea5-c3b3-4bdb-99f4-b324c702eb8b"
+  },
+  {
+    "name": "Anis",
+    "category": "general",
+    "id": "853d00d5-095a-46e8-a6df-3797cccbe1f6"
+  },
+  {
+    "name": "White Creme de Menthe",
+    "category": "cocktail",
+    "id": "30b02a5c-890e-4863-95e3-59913064d6ee"
+  },
+  {
+    "name": "Gold tequila",
+    "category": "cocktail",
+    "id": "64fc8405-ede6-497e-ad56-ba1d4c3e2bd9"
+  },
+  {
+    "name": "Sweet and sour",
+    "category": "cocktail",
+    "id": "481f0f5c-230e-46a9-8afc-1ea300f81742"
+  },
+  {
+    "name": "Salt",
+    "category": "general",
+    "id": "60b9e8c8-32be-4276-9589-9875ddcfbfc3"
+  },
+  {
+    "name": "Galliano",
+    "category": "cocktail",
+    "id": "40d2afe1-8c85-462b-a685-6bc5dc334a89"
+  },
+  {
+    "name": "Green Creme de Menthe",
+    "category": "cocktail",
+    "id": "357022da-57ec-4af2-979c-93f75be2dc8a"
+  },
+  {
+    "name": "Kummel",
+    "category": "cocktail",
+    "id": "9dc7ec76-9d11-43ae-9b99-a86b623e5074"
+  },
+  {
+    "name": "Anisette",
+    "category": "cocktail",
+    "id": "c2635744-85e4-4282-a0ea-14c0d7acbacd"
+  },
+  {
+    "name": "Carbonated water",
+    "category": "general",
+    "id": "72d101b3-9cb2-4140-a8dd-88d2a9e35ae6"
+  },
+  {
+    "name": "Lemon peel",
+    "category": "general",
+    "id": "5b666e66-8b0e-4c2b-9b92-04190c0a11c9"
+  },
+  {
+    "name": "White wine",
+    "category": "cocktail",
+    "id": "d28ce0c4-0c40-4de7-8bcf-805a5a50c1c5"
+  },
+  {
+    "name": "Sloe gin",
+    "category": "cocktail",
+    "id": "13705469-ab91-42b3-b12a-2b399dc81ea3"
+  },
+  {
+    "name": "Melon liqueur",
+    "category": "cocktail",
+    "id": "ce737687-d410-4a1c-aa8c-8ccfa0403c49"
+  },
+  {
+    "name": "Swedish Punsch",
+    "category": "cocktail",
+    "id": "75e9228b-c3f6-4054-9950-0eeee10360c2"
+  },
+  {
+    "name": "Peach brandy",
+    "category": "cocktail",
+    "id": "cf651b43-d70a-4a88-8b53-c22b612ccbe6"
+  },
+  {
+    "name": "Passion fruit juice",
+    "category": "general",
+    "id": "c2ffeb56-11cb-4c67-89f2-63992513bf58"
+  },
+  {
+    "name": "Peppermint schnapps",
+    "category": "cocktail",
+    "id": "ffbe8e58-c10b-4ece-9e5e-c31c7a483de0"
+  },
+  {
+    "name": "Creme de Noyaux",
+    "category": "cocktail",
+    "id": "40a97596-3043-4e70-8817-42c517d25920"
+  },
+  {
+    "name": "Grenadine",
+    "category": "cocktail",
+    "id": "1669a60c-c7e3-4f90-97bb-2530d657dd08"
+  },
+  {
+    "name": "Port",
+    "category": "cocktail",
+    "id": "1a6c7d74-a9f7-44c6-b7e5-077001a6328d"
+  },
+  {
+    "name": "Red wine",
+    "category": "cocktail",
+    "id": "0091a790-eed1-48d4-b201-638f0999bc51"
+  },
+  {
+    "name": "Rye whiskey",
+    "category": "cocktail",
+    "id": "4a04adb9-1d7c-4585-b5b5-bfd9e7b8802b"
+  },
+  {
+    "name": "Grapefruit juice",
+    "category": "general",
+    "id": "79724cd7-e6f6-4a72-9e4d-a1814ec4d215"
+  },
+  {
+    "name": "Ricard",
+    "category": "cocktail",
+    "id": "3490cdd0-598b-4b03-bf9b-db08752e860f"
+  },
+  {
+    "name": "Banana liqueur",
+    "category": "cocktail",
+    "id": "3fb039af-1cfd-4c8d-84b8-d58f63a1c221"
+  },
+  {
+    "name": "Vanilla ice-cream",
+    "category": "general",
+    "id": "011f9a8e-e61a-4072-be1d-77980a773129"
+  },
+  {
+    "name": "Whiskey",
+    "category": "cocktail",
+    "id": "f90d795b-4cab-42a7-917d-db8ec72a1d7d"
+  },
+  {
+    "name": "Creme de Banane",
+    "category": "cocktail",
+    "id": "092cc2b0-44bc-43cf-8d91-1bbe8917d5f8"
+  },
+  {
+    "name": "Lime juice cordial",
+    "category": "cocktail",
+    "id": "c55c9995-06e1-4001-b570-ee22790d1837"
+  },
+  {
+    "name": "Strawberry liqueur",
+    "category": "cocktail",
+    "id": "3e55e19f-a3ef-4b68-9fa7-36563333d58c"
+  },
+  {
+    "name": "Sambuca",
+    "category": "cocktail",
+    "id": "6fe8a71f-bc2c-4dd3-a11d-2f265673c583"
+  },
+  {
+    "name": "Peach schnapps",
+    "category": "cocktail",
+    "id": "b12534b5-7d70-47b2-a717-1a26ee8dc8fd"
+  },
+  {
+    "name": "Apple juice",
+    "category": "general",
+    "id": "b31d35ef-cae1-4762-8fb5-949d37724743"
+  },
+  {
+    "name": "Berries",
+    "category": "general",
+    "id": "1bc0ac37-d670-438d-aa5d-4485acb44d2b"
+  },
+  {
+    "name": "Blueberries",
+    "category": "general",
+    "id": "03efddf0-8c31-4f97-9bc6-e1fb01a4a46b"
+  },
+  {
+    "name": "Orange juice",
+    "category": "general",
+    "id": "a886c1b4-e7f7-49a9-9727-91be1af5df25"
+  },
+  {
+    "name": "Pineapple juice",
+    "category": "general",
+    "id": "a57f13cc-a88e-49c9-b37d-b5e99cb76f74"
+  },
+  {
+    "name": "Cranberries",
+    "category": "general",
+    "id": "731d4eda-7bc2-447e-8988-2dd70e771a94"
+  },
+  {
+    "name": "Brown sugar",
+    "category": "general",
+    "id": "234d976b-575e-48de-ab18-13493fa5c920"
+  },
+  {
+    "name": "Milk",
+    "category": "general",
+    "id": "5611fb2c-17aa-4ea5-8f4d-9629fddc0de4"
+  },
+  {
+    "name": "Egg yolk",
+    "category": "general",
+    "id": "7c56e1f2-f8a6-4f25-83b7-77e9c4a3a23b"
+  },
+  {
+    "name": "Lemon juice",
+    "category": "general",
+    "id": "99755cac-9d5e-40d5-9bba-d562f8799e33"
+  },
+  {
+    "name": "Soda water",
+    "category": "general",
+    "id": "0c891830-438c-4d34-b369-d7515f5d5aae"
+  },
+  {
+    "name": "Coconut liqueur",
+    "category": "cocktail",
+    "id": "d550048f-6246-4ac5-bbf6-1df5065da2e3"
+  },
+  {
+    "name": "Cream",
+    "category": "general",
+    "id": "f1c071ab-6530-4554-b376-15d2cac106f0"
+  },
+  {
+    "name": "Pineapple",
+    "category": "general",
+    "id": "df11e961-bcda-4c29-85a2-880421a5ba23"
+  },
+  {
+    "name": "Sugar syrup",
+    "category": "general",
+    "id": "11b3a278-3447-49e4-8151-b472ff4fb619"
+  },
+  {
+    "name": "Ginger ale",
+    "category": "general",
+    "id": "f90f288f-7e01-423d-8467-fd9b66de095f"
+  },
+  {
+    "name": "Worcestershire sauce",
+    "category": "general",
+    "id": "12bcaa12-227b-4c82-ae29-2b64d20a85b4"
+  },
+  {
+    "name": "Ginger",
+    "category": "general",
+    "id": "a16bf313-c008-4d72-8614-dfd875175c2d"
+  },
+  {
+    "name": "Strawberries",
+    "category": "general",
+    "id": "0de6403e-79a9-4e95-9240-9f8b1a079fc0"
+  },
+  {
+    "name": "Chocolate syrup",
+    "category": "general",
+    "id": "58401cea-780c-4bae-a660-9dc5276bb861"
+  },
+  {
+    "name": "Yoghurt",
+    "category": "general",
+    "id": "f31b6bb9-1b6c-43ae-8de1-933ff8ce1106"
+  },
+  {
+    "name": "Grape juice",
+    "category": "general",
+    "id": "58469445-a343-43d0-9b8b-95a8ed5fb631"
+  },
+  {
+    "name": "Orange",
+    "category": "general",
+    "id": "ea93bea9-f246-46ff-b483-dea055ee4cb6"
+  },
+  {
+    "name": "Apple cider",
+    "category": "general",
+    "id": "76bea9c3-91d3-4d3c-b493-d56f99fb6204"
+  },
+  {
+    "name": "Banana",
+    "category": "general",
+    "id": "442f5700-64db-411c-b348-c88080ef23eb"
+  },
+  {
+    "name": "Mango",
+    "category": "general",
+    "id": "dd3d5560-8ba4-4367-b39e-e4201166d041"
+  },
+  {
+    "name": "Soy milk",
+    "category": "general",
+    "id": "d4155fe5-5f3a-4a07-b48a-4de996c4ab25"
+  },
+  {
+    "name": "Lime",
+    "category": "general",
+    "id": "b8eb19db-d05a-43cf-8927-bb86fb52eef8"
+  },
+  {
+    "name": "Cantaloupe",
+    "category": "general",
+    "id": "90cc51dc-c985-41ee-ab01-514b6f59e5a3"
+  },
+  {
+    "name": "Grapes",
+    "category": "general",
+    "id": "fea0f99d-49da-47d8-9925-e266181dcd24"
+  },
+  {
+    "name": "Kiwi",
+    "category": "general",
+    "id": "8b714905-9a49-428d-acee-237570c0e973"
+  },
+  {
+    "name": "Tomato juice",
+    "category": "general",
+    "id": "99d3f9ee-29bc-491d-b137-c45b2551fe00"
+  },
+  {
+    "name": "Cocoa powder",
+    "category": "general",
+    "id": "9b654822-82c7-4dc6-b2a3-bca69a6508ec"
+  },
+  {
+    "name": "Chocolate",
+    "category": "general",
+    "id": "a63cc3d0-3095-4d71-a543-112b35276522"
+  },
+  {
+    "name": "Heavy cream",
+    "category": "general",
+    "id": "67610607-72f7-404d-983e-fbe1f3b92b6f"
+  },
+  {
+    "name": "Peach Vodka",
+    "category": "cocktail",
+    "id": "01eb306b-362c-4803-a43a-5c24a6ac4e2d"
+  },
+  {
+    "name": "Ouzo",
+    "category": "cocktail",
+    "id": "552d0314-b46c-4b50-876c-762889c9dc03"
+  },
+  {
+    "name": "Coffee",
+    "category": "general",
+    "id": "c12c2e4d-f31d-4fb2-adf5-b738d9add587"
+  },
+  {
+    "name": "Spiced rum",
+    "category": "cocktail",
+    "id": "a1743f81-18d8-49a9-b1b6-54c16ceb3650"
+  },
+  {
+    "name": "Water",
+    "category": "general",
+    "id": "f02af172-b9a0-4612-bbc4-873831f0310b"
+  },
+  {
+    "name": "Espresso",
+    "category": "general",
+    "id": "2d31499b-a16d-436b-bb1f-ef26c44e57fc"
+  },
+  {
+    "name": "Angelica root",
+    "category": "general",
+    "id": "345b2bb2-bf2d-4059-8728-29953b50fe0b"
+  },
+  {
+    "name": "Condensed milk",
+    "category": "general",
+    "id": "b0e50e35-bc7c-436c-b75f-542f4ff25319"
+  },
+  {
+    "name": "Honey",
+    "category": "general",
+    "id": "70c7d067-8c66-4afc-99a9-c0772b8d6c9a"
+  },
+  {
+    "name": "Whipping cream",
+    "category": "general",
+    "id": "dab1cf0c-ab74-4eac-b1f6-c202a28c7f4a"
+  },
+  {
+    "name": "Half-and-half",
+    "category": "general",
+    "id": "5c120e07-e409-4e2d-b8e6-a9388431bae6"
+  },
+  {
+    "name": "Bread",
+    "category": "general",
+    "id": "03b3955d-c5f2-4f60-b485-9cd190509e4c"
+  },
+  {
+    "name": "Plums",
+    "category": "general",
+    "id": "dfc41e20-6263-4769-b13f-0c43b841fc98"
+  },
+  {
+    "name": "Johnnie Walker",
+    "category": "cocktail",
+    "id": "20171d48-a10a-43d8-afb6-3171ad2c159a"
+  },
+  {
+    "name": "Vanilla",
+    "category": "general",
+    "id": "60fdd26a-6d92-44ca-baf4-01c3313536db"
+  },
+  {
+    "name": "Apple",
+    "category": "general",
+    "id": "8b37c740-c577-48fd-b256-a6a8d5b15906"
+  },
+  {
+    "name": "Orange rum",
+    "category": "cocktail",
+    "id": "8c85303e-5919-4ee9-bbdd-a3afa113fd53"
+  },
+  {
+    "name": "Everclear",
+    "category": "cocktail",
+    "id": "ebc6bd3f-2781-4c2a-8979-f957863134c8"
+  },
+  {
+    "name": "Kool-Aid",
+    "category": "general",
+    "id": "7b541195-6b25-477a-b3c0-fd08e092717c"
+  },
+  {
+    "name": "Lemonade",
+    "category": "general",
+    "id": "1d3a554f-4cc4-4fc2-b1b8-3803013d3a88"
+  },
+  {
+    "name": "Cranberry juice",
+    "category": "general",
+    "id": "5bbc4a6d-cceb-42e3-9f9e-1863d859ef5f"
+  },
+  {
+    "name": "Eggnog",
+    "category": "general",
+    "id": "c9c4cbe5-54ac-4d80-b2ee-72af53384019"
+  },
+  {
+    "name": "Carbonated soft drink",
+    "category": "general",
+    "id": "2b52885f-fdee-4a01-9038-2935e9768b2b"
+  },
+  {
+    "name": "Cloves",
+    "category": "general",
+    "id": "2193b457-8fa9-47c1-a297-ba320c058411"
+  },
+  {
+    "name": "Raisins",
+    "category": "general",
+    "id": "b84ba777-bf7c-4ca3-9435-70b949581b7c"
+  },
+  {
+    "name": "Almond",
+    "category": "general",
+    "id": "4debc55c-fb59-4ad5-b250-5ece6a3dd76f"
+  },
+  {
+    "name": "Beer",
+    "category": "cocktail",
+    "id": "a818180d-f521-4321-aff9-cd0d9c42bf8e"
+  },
+  {
+    "name": "Pink lemonade",
+    "category": "general",
+    "id": "243a05a9-ef9b-483c-9c2a-fdfd5f9b16ab"
+  },
+  {
+    "name": "Sherbet",
+    "category": "general",
+    "id": "21bffcf1-465e-4bd0-b7c9-bfef581fecac"
+  },
+  {
+    "name": "Peach nectar",
+    "category": "general",
+    "id": "8bd86e1e-7ff3-4e4f-9436-40f50c3a6bb0"
+  },
+  {
+    "name": "Firewater",
+    "category": "cocktail",
+    "id": "4a417fc8-fc43-46d7-8720-b28c3981d389"
+  },
+  {
+    "name": "Absolut Citron",
+    "category": "cocktail",
+    "id": "f501624d-4b60-4e7c-8bdd-30459d0cc43c"
+  },
+  {
+    "name": "Malibu rum",
+    "category": "cocktail",
+    "id": "a9d93fa6-4ca6-4320-b0ad-acdf3be9e8cb"
+  },
+  {
+    "name": "Midori melon liqueur",
+    "category": "cocktail",
+    "id": "95abf54e-a484-4a9c-adf6-b2189e4ece3d"
+  },
+  {
+    "name": "151 proof rum",
+    "category": "cocktail",
+    "id": "7ad79eec-bcc9-4d52-82fb-50f783f4a94b"
+  },
+  {
+    "name": "Bacardi Limon",
+    "category": "cocktail",
+    "id": "bb8b4cd6-a326-44a4-9abd-d4a654057aac"
+  },
+  {
+    "name": "Bailey's irish cream",
+    "category": "cocktail",
+    "id": "ea1039d8-c151-45c4-af2b-df0364d6d20d"
+  },
+  {
+    "name": "Lager",
+    "category": "cocktail",
+    "id": "7dd8cde2-7d91-4726-9c5d-cf2a08b3ba21"
+  },
+  {
+    "name": "Orange vodka",
+    "category": "cocktail",
+    "id": "75852d4f-4cba-45b8-8d9d-d215736623e5"
+  },
+  {
+    "name": "Blue Curacao",
+    "category": "cocktail",
+    "id": "951c7dde-a650-4eba-8da6-70fbd2389c72"
+  },
+  {
+    "name": "Absolut Vodka",
+    "category": "cocktail",
+    "id": "ff144b6b-66be-4765-be03-98671bad0755"
+  },
+  {
+    "name": "Jägermeister",
+    "category": "cocktail",
+    "id": "3547701d-39fa-41cc-b6e2-9efbc61849b8"
+  },
+  {
+    "name": "Jack Daniels",
+    "category": "cocktail",
+    "id": "e5e96148-a8f4-4b12-a29a-9da0a4bdbdd9"
+  },
+  {
+    "name": "Drambuie",
+    "category": "cocktail",
+    "id": "5b3e709e-3539-48da-b683-b1043992e194"
+  },
+  {
+    "name": "Whisky",
+    "category": "cocktail",
+    "id": "7442294d-08d5-4010-8537-db8eff31a271"
+  },
+  {
+    "name": "White rum",
+    "category": "cocktail",
+    "id": "d249f21a-19f9-4fe1-8cfc-4de05442b9d9"
+  },
+  {
+    "name": "Pisco",
+    "category": "cocktail",
+    "id": "8fcc8dcb-c3d0-40ce-a59a-65b7d1827058"
+  },
+  {
+    "name": "Irish cream",
+    "category": "cocktail",
+    "id": "4120ee2b-19bb-4c00-aa8c-5dcd2704639e"
+  },
+  {
+    "name": "Yukon Jack",
+    "category": "cocktail",
+    "id": "a0b393c8-97bb-4710-ba2f-95754772b357"
+  },
+  {
+    "name": "Goldschlager",
+    "category": "cocktail",
+    "id": "c66e17d7-87b9-46aa-96d0-b3ac967d171d"
+  },
+  {
+    "name": "Butterscotch schnapps",
+    "category": "cocktail",
+    "id": "9b82bcb0-ece3-49ca-ad95-2d50a5d39830"
+  },
+  {
+    "name": "Grand Marnier",
+    "category": "cocktail",
+    "id": "e58dfc94-0452-41da-8777-bcefd46dc7a2"
+  },
+  {
+    "name": "Peachtree schnapps",
+    "category": "cocktail",
+    "id": "e1e8c3f2-10e6-434c-b5df-3a5f082615cf"
+  },
+  {
+    "name": "Absolut Kurant",
+    "category": "cocktail",
+    "id": "4b350a8f-5257-4c71-92ae-6050d8211efe"
+  },
+  {
+    "name": "Ale",
+    "category": "cocktail",
+    "id": "9bd36b16-74b4-4ad7-bfa1-2f48622df551"
+  },
+  {
+    "name": "Chambord raspberry liqueur",
+    "category": "cocktail",
+    "id": "0e1df9f3-69aa-4ab0-931a-5cc6d5084cce"
+  },
+  {
+    "name": "Tia maria",
+    "category": "cocktail",
+    "id": "875452ed-f7cf-43f3-8a31-7278b9d2a99c"
+  },
+  {
+    "name": "Chocolate liqueur",
+    "category": "cocktail",
+    "id": "8d057cb8-678d-44b7-9fef-78ebeb64d9db"
+  },
+  {
+    "name": "Frangelico",
+    "category": "cocktail",
+    "id": "09c5b57c-4298-482f-9b84-be4b0cdc366a"
+  },
+  {
+    "name": "Barenjager",
+    "category": "cocktail",
+    "id": "108161f9-c628-40b9-8822-759acd1c33ae"
+  },
+  {
+    "name": "Hpnotiq",
+    "category": "cocktail",
+    "id": "624214d4-d4da-48ab-a820-e1b90d92815e"
+  },
+  {
+    "name": "Coca-Cola",
+    "category": "general",
+    "id": "b2920266-babb-4ff1-bd54-75514806c868"
+  },
+  {
+    "name": "Tuaca",
+    "category": "cocktail",
+    "id": "15ce6f6f-32e0-4478-833a-89a6183238f7"
+  },
+  {
+    "name": "Tang",
+    "category": "general",
+    "id": "aa61c6a8-eca5-44e9-90ab-68296d507094"
+  },
+  {
+    "name": "Tropicana",
+    "category": "general",
+    "id": "a366cf96-fe85-4eee-a1d4-bf6606a88757"
+  },
+  {
+    "name": "Grain alcohol",
+    "category": "cocktail",
+    "id": "bf7d20a1-45d3-458c-a1c3-4acd92e2834e"
+  },
+  {
+    "name": "Schnapps",
+    "category": "cocktail",
+    "id": "da2bf420-7fb2-41e4-b16b-65eebc329336"
+  },
+  {
+    "name": "Cider",
+    "category": "general",
+    "id": "f4c33429-c8c4-4c6c-800e-0a3737b35567"
+  },
+  {
+    "name": "Aftershock",
+    "category": "cocktail",
+    "id": "f69c48de-e7ba-4f98-9e3c-799e80f642ba"
+  },
+  {
+    "name": "Sprite",
+    "category": "general",
+    "id": "7c0aef37-4350-43f1-b013-12dea72875c5"
+  },
+  {
+    "name": "Rumple Minze",
+    "category": "cocktail",
+    "id": "4b18eb00-d8f8-4fc3-8563-5dd439dd68c1"
+  },
+  {
+    "name": "Key Largo schnapps",
+    "category": "cocktail",
+    "id": "ab459439-bcb0-4658-aa98-ad74c8120585"
+  },
+  {
+    "name": "Pisang Ambon",
+    "category": "cocktail",
+    "id": "a2e942f4-81c0-469e-acd9-057560d3a99d"
+  },
+  {
+    "name": "Pernod",
+    "category": "cocktail",
+    "id": "50ef6443-a281-4b21-a456-e683a713cdbb"
+  },
+  {
+    "name": "7-Up",
+    "category": "general",
+    "id": "1bbab785-2fc0-4b3f-838c-71e19b06e048"
+  },
+  {
+    "name": "Limeade",
+    "category": "general",
+    "id": "d011871a-e6cf-42b4-b20b-8ac792725409"
+  },
+  {
+    "name": "Gold rum",
+    "category": "cocktail",
+    "id": "d5227793-7516-4d3c-9a81-900e5dc12cca"
+  },
+  {
+    "name": "Wild Turkey",
+    "category": "cocktail",
+    "id": "a2625d70-3b24-4228-ac74-71700fb95745"
+  },
+  {
+    "name": "Cointreau",
+    "category": "cocktail",
+    "id": "6095c24d-f347-434d-a19b-d5a9843588db"
+  },
+  {
+    "name": "Lime vodka",
+    "category": "cocktail",
+    "id": "278c3000-5895-47b7-b6ac-bf6301e57c52"
+  },
+  {
+    "name": "Maraschino cherry juice",
+    "category": "general",
+    "id": "f4a3b8c9-bcde-46ec-a4d2-02d52f9067fd"
+  },
+  {
+    "name": "Creme de Cassis",
+    "category": "cocktail",
+    "id": "99398f88-4288-4051-8167-2e07857903f1"
+  },
+  {
+    "name": "Zima",
+    "category": "cocktail",
+    "id": "5960edcd-68fc-4dbe-a189-7b6a2a27d95f"
+  },
+  {
+    "name": "Crown Royal",
+    "category": "cocktail",
+    "id": "7657bff3-a622-4c2e-bc0b-552e5b7cfde4"
+  },
+  {
+    "name": "Cardamom",
+    "category": "cocktail",
+    "id": "a0a3bc4e-41c6-4fab-80ad-f0da4295998a"
+  },
+  {
+    "name": "Orange Curacao",
+    "category": "cocktail",
+    "id": "344fc1bf-0b9d-41b6-b255-f598aad956fc"
+  },
+  {
+    "name": "Tabasco sauce",
+    "category": "general",
+    "id": "2226dcac-f0dd-450a-83e7-bd6aa801e880"
+  },
+  {
+    "name": "Peach liqueur",
+    "category": "cocktail",
+    "id": "2fd43453-72e9-464f-8fd4-7859dbb46532"
+  },
+  {
+    "name": "Curacao",
+    "category": "cocktail",
+    "id": "95987b59-2f60-41a7-b8bc-3bd4aa361f89"
+  },
+  {
+    "name": "Cherry Heering",
+    "category": "cocktail",
+    "id": "6e1f0461-9586-4997-8a39-9dfe684e35f7"
+  },
+  {
+    "name": "Fruit punch",
+    "category": "general",
+    "id": "781114c2-95a7-4b85-b111-4feb64e5cc42"
+  },
+  {
+    "name": "Vermouth",
+    "category": "cocktail",
+    "id": "fd6907d3-2d27-40e1-86b9-bdf9d1b3dbf4"
+  },
+  {
+    "name": "Cherry juice",
+    "category": "general",
+    "id": "9a5e4048-7a8f-4315-9954-d89e31afe0a7"
+  },
+  {
+    "name": "Cinnamon schnapps",
+    "category": "cocktail",
+    "id": "25c57b4f-4aa1-45ab-b9de-505ccea53d97"
+  },
+  {
+    "name": "Orange peel",
+    "category": "general",
+    "id": "efa3db14-70a0-4ac6-99d4-5f1211a76908"
+  },
+  {
+    "name": "Advocaat",
+    "category": "cocktail",
+    "id": "072fdd50-bc41-4dfd-ad3b-72fea2497e2f"
+  },
+  {
+    "name": "Clamato juice",
+    "category": "general",
+    "id": "4a15fb64-4a75-41ed-a998-e69f40541362"
+  },
+  {
+    "name": "Sour mix",
+    "category": "cocktail",
+    "id": "dc8aba7b-853e-4c63-868f-d0f587e2b6b3"
+  },
+  {
+    "name": "Apfelkorn",
+    "category": "cocktail",
+    "id": "e7266d86-b1dc-4993-8fad-a42eb92ff5fd"
+  },
+  {
+    "name": "Green Chartreuse",
+    "category": "cocktail",
+    "id": "6d0e5a8e-1148-421f-aa3b-c6bab9bbb8d0"
+  },
+  {
+    "name": "Root beer schnapps",
+    "category": "cocktail",
+    "id": "5ab0228e-57e1-4f41-87d5-8081ba33c4c5"
+  },
+  {
+    "name": "Coconut rum",
+    "category": "cocktail",
+    "id": "ed12ef62-8fcb-4ea4-b49c-f492ae0d4d37"
+  },
+  {
+    "name": "Raspberry schnapps",
+    "category": "cocktail",
+    "id": "73a4ad38-45e7-4baf-822b-2b5b6ebe680f"
+  },
+  {
+    "name": "Black Sambuca",
+    "category": "cocktail",
+    "id": "529d35e1-518d-4194-8c1b-0588c43f033a"
+  },
+  {
+    "name": "Vanilla vodka",
+    "category": "cocktail",
+    "id": "3662a011-c32c-459f-8e28-3f05ec332708"
+  },
+  {
+    "name": "Root beer",
+    "category": "general",
+    "id": "971e1cc9-ad47-40db-8ccb-03689c218142"
+  },
+  {
+    "name": "Absolut Peppar",
+    "category": "cocktail",
+    "id": "b7e95f23-9d81-49ca-bfed-2cd22bd0a3ed"
+  },
+  {
+    "name": "Vanilla schnapps",
+    "category": "cocktail",
+    "id": "aece77b3-cac3-41de-be02-3610b8a9c26f"
+  },
+  {
+    "name": "Orange liqueur",
+    "category": "cocktail",
+    "id": "83d87be3-a647-437d-830e-85a32b72eba6"
+  },
+  {
+    "name": "Kiwi liqueur",
+    "category": "cocktail",
+    "id": "903aa84d-cf98-4aaa-9775-c759d5febbc2"
+  },
+  {
+    "name": "Hot chocolate",
+    "category": "general",
+    "id": "ce7e887d-00f6-4d95-8976-5c83a11a0dd3"
+  },
+  {
+    "name": "Jello",
+    "category": "general",
+    "id": "b3bf0042-c2c1-4ebd-9642-d1f3fe14ef5d"
+  },
+  {
+    "name": "Mountain Dew",
+    "category": "general",
+    "id": "2ab1dad8-6eca-4e43-b04c-3e3387fa2a85"
+  },
+  {
+    "name": "Blueberry schnapps",
+    "category": "cocktail",
+    "id": "75d472e0-896b-4453-b687-6a870b80f022"
+  },
+  {
+    "name": "Maui",
+    "category": "cocktail",
+    "id": "2cd812bf-e963-45b8-af7a-124fd713f67c"
+  },
+  {
+    "name": "Tennessee whiskey",
+    "category": "cocktail",
+    "id": "35a447ea-75f0-4032-a666-9fd00d11c636"
+  },
+  {
+    "name": "White chocolate liqueur",
+    "category": "cocktail",
+    "id": "10874b17-2f47-485f-826f-efb733859f2e"
+  },
+  {
+    "name": "Cream of coconut",
+    "category": "general",
+    "id": "d8ff1c5a-a27a-4841-a1e7-7c29af9f1c50"
+  },
+  {
+    "name": "Citrus vodka",
+    "category": "cocktail",
+    "id": "5a9aff71-8f00-4f09-b748-f437255e3088"
+  },
+  {
+    "name": "Fruit juice",
+    "category": "general",
+    "id": "73f3d4df-2fb2-4ca6-a989-5bf01b2e4cd7"
+  },
+  {
+    "name": "Cranberry vodka",
+    "category": "cocktail",
+    "id": "89cf31fc-02e9-4e14-b028-7c48de626191"
+  },
+  {
+    "name": "Campari",
+    "category": "cocktail",
+    "id": "6029f9d0-a292-4dc4-a29d-ea3cfb5d7da5"
+  },
+  {
+    "name": "Corona",
+    "category": "cocktail",
+    "id": "daf2d4ca-5223-4e32-943d-1e0306eafbbf"
+  },
+  {
+    "name": "Chocolate ice-cream",
+    "category": "general",
+    "id": "92388658-3680-4ee8-b2f2-5efa50f86541"
+  },
+  {
+    "name": "Jim Beam",
+    "category": "cocktail",
+    "id": "6ee6e1a6-2a1e-4e03-b8f7-bffa62c289d6"
+  },
+  {
+    "name": "Aquavit",
+    "category": "cocktail",
+    "id": "fb84f996-030a-46f6-b941-727819c7890b"
+  },
+  {
+    "name": "Hawaiian Punch",
+    "category": "general",
+    "id": "ce946c79-387e-4ed7-b8c1-60aed37c0300"
+  },
+  {
+    "name": "Blackberry schnapps",
+    "category": "cocktail",
+    "id": "6fbde5b6-d945-46f3-b621-c4cf37e1fc52"
+  },
+  {
+    "name": "Chocolate milk",
+    "category": "general",
+    "id": "19055965-e880-4a64-a51b-96ec111eb5d2"
+  },
+  {
+    "name": "Watermelon schnapps",
+    "category": "cocktail",
+    "id": "71c1dd89-aa53-4042-be29-7170164d0027"
+  },
+  {
+    "name": "Beef bouillon",
+    "category": "general",
+    "id": "25f7e335-fcec-41fc-8567-fdb8e351ce92"
+  },
+  {
+    "name": "Dr. Pepper",
+    "category": "general",
+    "id": "1ced7b35-c062-474a-88f2-00770ac7b2a3"
+  },
+  {
+    "name": "Iced tea",
+    "category": "general",
+    "id": "05383543-9767-474e-98bc-2f68cdaaa428"
+  },
+  {
+    "name": "Hot Damn",
+    "category": "cocktail",
+    "id": "1b485d54-c618-4881-91b4-8de77d1c26b7"
+  },
+  {
+    "name": "Club soda",
+    "category": "general",
+    "id": "df748dea-7895-4d6c-9274-06e36f243d2c"
+  },
+  {
+    "name": "Benedictine",
+    "category": "cocktail",
+    "id": "f2e3ee19-b4ec-460f-ac62-5baf7e177e1e"
+  },
+  {
+    "name": "Dark Creme de Cacao",
+    "category": "cocktail",
+    "id": "2f43669c-ac06-425c-8aa8-eb88f84d7264"
+  },
+  {
+    "name": "Black rum",
+    "category": "cocktail",
+    "id": "fa738561-fe0c-4a3a-a7a9-26bbac166734"
+  },
+  {
+    "name": "Cherry Cola",
+    "category": "general",
+    "id": "e77dc9f9-e979-4c48-b1aa-fc9c2f698bf8"
+  },
+  {
+    "name": "Absinthe",
+    "category": "cocktail",
+    "id": "842c360b-0e7f-47e8-a0d9-2cd9ddb04c4f"
+  },
+  {
+    "name": "Angostura bitters",
+    "category": "cocktail",
+    "id": "f904a406-42c8-41f2-b767-21ba4a41649f"
+  },
+  {
+    "name": "Tequila Rose",
+    "category": "cocktail",
+    "id": "b8dd1d67-9826-466f-8ddc-e4ba96747d81"
+  },
+  {
+    "name": "Guinness stout",
+    "category": "cocktail",
+    "id": "eb44b205-fc95-4aba-afda-98ea936d1613"
+  },
+  {
+    "name": "Orange soda",
+    "category": "general",
+    "id": "9723764b-3176-4079-b3fd-7c5cbf0b2af2"
+  },
+  {
+    "name": "Wildberry schnapps",
+    "category": "cocktail",
+    "id": "575157ee-2c55-4f0a-a1ef-7295d958edc7"
+  },
+  {
+    "name": "Lemon-lime soda",
+    "category": "general",
+    "id": "85ffb845-853f-4d47-9441-24dc84833406"
+  },
+  {
+    "name": "Godiva liqueur",
+    "category": "cocktail",
+    "id": "48ec1205-3148-4571-9a18-f84843eaf442"
+  },
+  {
+    "name": "Baileys irish cream",
+    "category": "cocktail",
+    "id": "b2cf2dd1-705d-41d6-ad76-48c4b867dccc"
+  },
+  {
+    "name": "Schweppes Russchian",
+    "category": "general",
+    "id": "efc0eb1a-e1ce-4457-8258-49f720ee9373"
+  },
+  {
+    "name": "Melon vodka",
+    "category": "cocktail",
+    "id": "f41599ca-0327-4170-ad2b-4ff48ba9b1c8"
+  },
+  {
+    "name": "Sour Apple Pucker",
+    "category": "cocktail",
+    "id": "e1a6ee40-465d-49d4-9425-162a6b07c522"
+  },
+  {
+    "name": "Raspberry vodka",
+    "category": "cocktail",
+    "id": "689bb07a-a43c-436f-8f1d-3543d6ace194"
+  },
+  {
+    "name": "coconut milk",
+    "category": "general",
+    "id": "1c0c3799-2022-474f-b7ce-1bcfee19e064"
+  }
+]

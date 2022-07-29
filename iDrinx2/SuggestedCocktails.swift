@@ -12,7 +12,7 @@ struct SuggestedCocktails: View {
     @ObservedObject var pantryController = PantryController.singleton
     var filteredCocktails: [Cocktail] {
         return cocktails.filter { cocktail in
-            let ingredientsSet = Set(pantryController.myIngredients)
+            let ingredientsSet = Set(pantryController.myIngredients.map { $0.name } )
             let cocktailIngredientsSet = Set(cocktail.ingredients.map { $0.name })
             return cocktailIngredientsSet.isSubset(of: ingredientsSet)
         }

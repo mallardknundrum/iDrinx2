@@ -12,8 +12,8 @@ class PantryController: ObservableObject {
     static var singleton = PantryController()
     
     private var ingredientsKey = "myIngredients"
-    @Published var myIngredients: [String] = []
-    var allIngredients: [String] = []
+    @Published var myIngredients: [Ingredient] = []
+    var allIngredients: [Ingredient] = []
     
     init() {
         myIngredients = getMyIngredientsFromUserDefaults()
@@ -21,15 +21,16 @@ class PantryController: ObservableObject {
     }
     
     func ingredientIsInPantry(_ ingredientString: String) -> Bool {
-        return myIngredients.contains(ingredientString)
+        return myIngredients.map( { $0.name } ).contains(ingredientString)
     }
-    func getIngredientsFromJSON() -> [String] {
-        if let path = Bundle.main.path(forResource: "ingredients", ofType: "json") {
+    
+    func getIngredientsFromJSON() -> [Ingredient] {
+        if let path = Bundle.main.path(forResource: "new_ingredient_list", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
                 let decoder = JSONDecoder()
-                let ingredients = try decoder.decode([String].self, from: data)
-                return ingredients.sorted(by: <)
+                let ingredients = try decoder.decode([Ingredient].self, from: data)
+                return ingredients.sorted { $0.name < $1.name }
               } catch {
                    return []
               }
@@ -38,25 +39,40 @@ class PantryController: ObservableObject {
         }
     }
     
-    func getMyIngredientsFromUserDefaults() -> [String] {
-        if let ingredientNames = UserDefaults.standard.object(forKey: ingredientsKey) as? [String] {
-            return ingredientNames.sorted(by: <)
+    func getMyIngredientsFromUserDefaults() -> [Ingredient] {
+        if let data = UserDefaults.standard.data(forKey: ingredientsKey) {
+            do {
+                let ingredients = try JSONDecoder().decode([Ingredient].self, from: data)
+                return ingredients.sorted { $0.name < $1.name}
+            } catch let error {
+                print(error.localizedDescription)
+                print("problem getting myIngredients from UserDefaults")
+                return []
+            }
         } else {
             return []
         }
     }
     
     func saveMyIngredientsToUserDefaults() {
-        UserDefaults.standard.set(myIngredients, forKey: ingredientsKey)
+        do {
+            let encodedIngredients = try JSONEncoder().encode(myIngredients)
+            UserDefaults.standard.set(encodedIngredients, forKey: ingredientsKey)
+        } catch let error {
+            print(error.localizedDescription)
+            print("There was an error encoding ingredients and saving to UserDefaults")
+        }
+        
     }
     
     func addIngredient(ingredientString: String) {
-        myIngredients.append(ingredientString)
+        let ingredient = allIngredients.filter { $0.name == ingredientString }[0]
+        myIngredients.append(ingredient)
         saveMyIngredientsToUserDefaults()
     }
 
     func deleteIngredient(ingredientString: String) {
-        myIngredients = myIngredients.filter { $0 != ingredientString }
+        myIngredients = myIngredients.filter { $0.name != ingredientString }
         saveMyIngredientsToUserDefaults()
     }
     
