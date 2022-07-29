@@ -25,7 +25,7 @@ class PantryController: ObservableObject {
     }
     
     func getIngredientsFromJSON() -> [Ingredient] {
-        if let path = Bundle.main.path(forResource: "new_ingredient_list", ofType: "json") {
+        if let path = Bundle.main.path(forResource: "ext_ing_list", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
                 let decoder = JSONDecoder()

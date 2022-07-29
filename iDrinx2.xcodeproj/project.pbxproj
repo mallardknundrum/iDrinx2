@@ -38,6 +38,8 @@
 		5CD6230B288F256E003A1F8A /* IsIngredientInPantryToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6230A288F256E003A1F8A /* IsIngredientInPantryToggle.swift */; };
 		5CFD6AAF28946116003941F3 /* new_ingredient_list.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CFD6AAE28946116003941F3 /* new_ingredient_list.json */; };
 		5CFD6AB128946180003941F3 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CFD6AB028946180003941F3 /* Ingredient.swift */; };
+		5CFD6AB328947EBD003941F3 /* cocktails_with_ing_ids.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CFD6AB228947EBD003941F3 /* cocktails_with_ing_ids.json */; };
+		5CFD6AB528947F1C003941F3 /* ext_ing_list.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CFD6AB428947F1C003941F3 /* ext_ing_list.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,6 +94,8 @@
 		5CD6230A288F256E003A1F8A /* IsIngredientInPantryToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsIngredientInPantryToggle.swift; sourceTree = "<group>"; };
 		5CFD6AAE28946116003941F3 /* new_ingredient_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = new_ingredient_list.json; sourceTree = "<group>"; };
 		5CFD6AB028946180003941F3 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
+		5CFD6AB228947EBD003941F3 /* cocktails_with_ing_ids.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cocktails_with_ing_ids.json; sourceTree = "<group>"; };
+		5CFD6AB428947F1C003941F3 /* ext_ing_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ext_ing_list.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,7 +185,9 @@
 		5C8C62E02882084A006701F6 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				5CFD6AB228947EBD003941F3 /* cocktails_with_ing_ids.json */,
 				5CFD6AAE28946116003941F3 /* new_ingredient_list.json */,
+				5CFD6AB428947F1C003941F3 /* ext_ing_list.json */,
 				5C8C62DC2882082F006701F6 /* formatted_cocktails.json */,
 				5C8C62DE2882083F006701F6 /* ingredients.json */,
 			);
@@ -352,6 +358,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C8C62DF28820840006701F6 /* ingredients.json in Resources */,
+				5CFD6AB328947EBD003941F3 /* cocktails_with_ing_ids.json in Resources */,
+				5CFD6AB528947F1C003941F3 /* ext_ing_list.json in Resources */,
 				5C8C62DD2882082F006701F6 /* formatted_cocktails.json in Resources */,
 				5CFD6AAF28946116003941F3 /* new_ingredient_list.json in Resources */,
 				5C8C62BA2881ED4F006701F6 /* Preview Assets.xcassets in Resources */,

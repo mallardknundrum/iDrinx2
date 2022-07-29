@@ -14,7 +14,7 @@ class CocktailController {
     
     
     func getCocktails() -> [Cocktail] {
-        if let path = Bundle.main.path(forResource: "formatted_cocktails", ofType: "json") {
+        if let path = Bundle.main.path(forResource: "cocktails_with_ing_ids", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
                 let decoder = JSONDecoder()
