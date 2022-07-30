@@ -61,6 +61,6 @@ struct SaveDeleteButton_Previews: PreviewProvider {
                                             Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                             ],
                                             description: "",
-                                            reviewsAndRatings: []))
+                                            reviewsAndRatings: [], isOffensive: false))
     }
 }

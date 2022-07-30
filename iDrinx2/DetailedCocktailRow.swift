@@ -13,7 +13,7 @@ struct DetailedCocktailRow: View {
     
     var body: some View {
         VStack {
-            Text(cocktail.name).font(.system(.title3))
+            TitleText(viewModel: TitleTextViewModel(title: cocktail.name, isOffensive: cocktail.isOffensive))
             HStack {
                 CocktailImage(cocktail: cocktail, frame: (100.0, 100.0))
                 
@@ -51,7 +51,7 @@ struct DetailedCocktailRow_Previews: PreviewProvider {
                                      Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                      ],
                                      description: "",
-                                     reviewsAndRatings: []))
+                                               reviewsAndRatings: [], isOffensive: false))
     }
 }
 
