@@ -11,4 +11,5 @@ struct Ingredient: Codable, Hashable {
     let name: String
     let id: String
     let category: String
+    let amount: String?
 }
