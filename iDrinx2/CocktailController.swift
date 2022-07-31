@@ -14,7 +14,7 @@ class CocktailController {
     
     
     func getCocktails() -> [Cocktail] {
-        if let path = Bundle.main.path(forResource: "formatted_cocktails", ofType: "json") {
+        if let path = Bundle.main.path(forResource: "cocktail_list", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
                 let decoder = JSONDecoder()
@@ -29,7 +29,7 @@ class CocktailController {
     }
     
     init() {
-        if let path = Bundle.main.path(forResource: "formatted_cocktails", ofType: "json") {
+        if let path = Bundle.main.path(forResource: "cocktail_list", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
                 let decoder = JSONDecoder()
@@ -61,6 +61,6 @@ class CocktailController {
                                   Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                   ],
                                   description: "",
-                                  reviewsAndRatings: [])
+                        reviewsAndRatings: [], isOffensive: false)
     }
 }

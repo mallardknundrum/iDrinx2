@@ -14,7 +14,7 @@ struct SearchCocktailRow: View {
         HStack {
             CocktailImage(cocktail: cocktail, frame: (30.0, 30.0))
             Spacer()
-            Text(cocktail.name).font(.system(.title3))
+            TitleText(viewModel: TitleTextViewModel(title: cocktail.name, isOffensive: cocktail.isOffensive))
         }
     }
 }
@@ -38,6 +38,6 @@ struct SearchCocktailRow_Previews: PreviewProvider {
                                              Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                              ],
                                              description: "",
-                                             reviewsAndRatings: []))
+                                             reviewsAndRatings: [], isOffensive: false))
     }
 }

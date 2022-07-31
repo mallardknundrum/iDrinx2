@@ -30,6 +30,7 @@ struct Cocktail: Codable, Identifiable, Hashable, Comparable {
     let ingredients: [Cocktail_Ingredient]
     let description: String
     let reviewsAndRatings: [ReviewAndRating]
+    let isOffensive: Bool
 }
 
 //{

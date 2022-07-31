@@ -15,7 +15,7 @@ struct DetailView: View {
     var body: some View {
         ScrollView {
             VStack {
-                Text(cocktail.name).font(Font.title)
+                TitleText(viewModel: TitleTextViewModel(title: cocktail.name, isOffensive: cocktail.isOffensive))
                 CocktailImage(cocktail: cocktail, frame: (UIScreen.main.bounds.width * 0.9, UIScreen.main.bounds.height * 0.5))
                     .padding()
                 HStack {
@@ -74,6 +74,6 @@ struct DetailView_Previews: PreviewProvider {
                                         Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
                                       ],
                                       description: "",
-                                      reviewsAndRatings: []))
+                                      reviewsAndRatings: [], isOffensive: false))
     }
 }
