@@ -53,12 +53,12 @@ class CocktailController {
                                   dateModified: "2016-04-29 09:43:00",
                                   thumbnail: "http://www.thecocktaildb.com/images/media/drink/vyrvxt1461919380.jpg",
                                   ingredients: [
-                                  Cocktail_Ingredient(name: "Light rum", amount: "1 oz"),
-                                  Cocktail_Ingredient(name: "Añejo rum", amount: "1 oz"),
-                                  Cocktail_Ingredient(name: "Orange juice", amount: "1 oz"),
-                                  Cocktail_Ingredient(name: "Lemon juice", amount: "1/2 ozz"),
-                                  Cocktail_Ingredient(name: "Ginger ale", amount: "3 oz"),
-                                  Cocktail_Ingredient(name: "Lemon peel", amount: "1 twist of"),
+                                    Ingredient(name: "Light rum", id: "7ae285d0-b1b6-4604-bd6c-8a8a7fae1ef5", category: "cocktail", amount: "1 oz"),
+                                    Ingredient(name: "Añejo rum", id: "b013ba2e-8712-4a8e-b02d-15e9d5371cbc", category: "cocktail", amount: "1 oz"),
+                                    Ingredient(name: "Orange juice", id: "a886c1b4-e7f7-49a9-9727-91be1af5df25", category: "general", amount: "1 oz"),
+                                    Ingredient(name: "Lemon juice", id: "99755cac-9d5e-40d5-9bba-d562f8799e33", category: "general", amount: "1/2 ozz"),
+                                    Ingredient(name: "Ginger ale", id: "f90f288f-7e01-423d-8467-fd9b66de095f", category: "general", amount: "3 oz"),
+                                    Ingredient(name: "Lemon peel", id: "5b666e66-8b0e-4c2b-9b92-04190c0a11c9", category: "general", amount: "1 twist of"),
                                   ],
                                   description: "",
                         reviewsAndRatings: [], isOffensive: false)

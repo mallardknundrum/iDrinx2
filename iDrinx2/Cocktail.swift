@@ -27,7 +27,7 @@ struct Cocktail: Codable, Identifiable, Hashable, Comparable {
     let instructions: String
     let dateModified: String?
     let thumbnail: String?
-    let ingredients: [Cocktail_Ingredient]
+    let ingredients: [Ingredient]
     let description: String
     let reviewsAndRatings: [ReviewAndRating]
     let isOffensive: Bool
