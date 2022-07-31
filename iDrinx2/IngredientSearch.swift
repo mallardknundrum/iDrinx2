@@ -12,6 +12,7 @@ struct IngredientSearch: View {
     @State private var searchText = ""
     @Binding var showSheetView: Bool
     @ObservedObject private var pantryController = PantryController.singleton
+    
     var body: some View {
         NavigationView {
             List {
@@ -29,6 +30,7 @@ struct IngredientSearch: View {
                             }) {
                                 Text("Done").bold()
                             })
+                            
         }
     }
     
